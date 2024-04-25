@@ -16,7 +16,7 @@ Simple mini-project created for User Management. You can Create Superadmin, admi
 
 ## How to Install
 
-- git clonehttps://github.com/bestmomo/laravel5-example.gitprojectname
+- git clonehttps://github.com/aminulbinnoor/lara-ums
 - cd projectname
 - composer install
 - php artisan key:generate
